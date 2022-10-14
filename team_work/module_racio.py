@@ -25,19 +25,19 @@ def Сalculator(a, b, c):
 # P.s. предложение как данный модуль должен работать с другими
 # Testing program:
 # while True:
-#     s = input("Знак (+,-,*,/): ")
-#     if s == '0':
+#     z = input("Знак (+,-,*,/): ")
+#     if z == '0':
 #         break
-#     if s in ('+', '-', '*', '/'):
+#     if z in ('+', '-', '*', '/'):
 #         x = float(input("x="))
 #         y = float(input("y="))
-#         if s == '+':
+#         if z == '+':
 #             print("%.2f" % (x+y))
-#         elif s == '-':
+#         elif z == '-':
 #             print("%.2f" % (x-y))
-#         elif s == '*':
+#         elif z == '*':
 #             print("%.2f" % (x*y))
-#         elif s == '/':
+#         elif z == '/':
 #             if y != 0:
 #                 print("%.2f" % (x/y))
 #             else:
